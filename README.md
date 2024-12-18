@@ -16,3 +16,6 @@ This is a Python-based CLI application using SQLAlchemy for managing events, att
 
 You can install the required dependencies by running:
 pipenv install sqlalchemy
+
+## License
+This project is licensed under the MIT License 
